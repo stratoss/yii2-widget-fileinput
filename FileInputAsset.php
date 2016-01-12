@@ -7,7 +7,7 @@
  * @version 1.0.4
  */
 
-namespace kartik\file;
+namespace stratoss\file;
 
 use kartik\base\AssetBundle;
 
@@ -24,7 +24,7 @@ class FileInputAsset extends AssetBundle
      */
     public function init()
     {
-        $this->setSourcePath('@vendor/kartik-v/bootstrap-fileinput');
+        $this->setSourcePath('@vendor/stratoss/bootstrap-fileinput');
         $this->setupAssets('css', ['css/fileinput']);
         $this->setupAssets('js', ['js/fileinput']);
         parent::init();

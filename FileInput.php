@@ -7,7 +7,7 @@
  * @version 1.0.4
  */
 
-namespace kartik\file;
+namespace stratoss\file;
 
 use Yii;
 use yii\helpers\Html;
