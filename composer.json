@@ -18,7 +18,7 @@
     ],
     "require": {
         "kartik-v/yii2-krajee-base": "~1.7",
-        "stratoss/bootstrap-fileinput": "~4.2"
+        "stratoss/bootstrap-fileinput": "~999.1"
     },
     "autoload": {
         "psr-4": {
